@@ -1,0 +1,25 @@
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.container{
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Lato; 
+    color:rgba(49, 44, 81, 1);
+    width: 330px;
+    height: 700px;
+    
+    /* height: 250px; */
+    /* background-color: rgb(140, 223, 195); */
+    padding: 30px;
+    background: rgba(240, 195, 142, 1);
+    
+}
